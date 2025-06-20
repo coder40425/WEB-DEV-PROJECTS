@@ -4,7 +4,7 @@ A complete portfolio of my web development journey — from HTML, CSS to full-st
 # 🌐 Web Development Journey
 
 Welcome to my web development repository!  
-I'm *Yash Kumar Singh, a B.Tech student at **NIT Durgapur (2024–2028)*, currently diving deep into the world of full-stack web development.
+I'm *Yash Kumar Singh*, a B.Tech student at *NIT Durgapur (2024–2028)*, currently diving deep into the world of full-stack web development.
 
 ## 📌 About This Repository
 
