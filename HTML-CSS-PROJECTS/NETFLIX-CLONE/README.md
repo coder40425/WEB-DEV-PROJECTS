@@ -31,11 +31,11 @@ Responsiveness is currently a work in progress. I’m actively improving the des
 
 ## 📸 Screenshots
 
-![Screenshot 3](./screenshots/Screenshot.3.png)
+![Screenshot 1](./screenshots/Screenshot.1.png)'
 
 ![Screenshot 2](./screenshots/Screenshot.2.png)
 
-![Screenshot 1](./screenshots/Screenshot.1.png)
+![Screenshot 3](./screenshots/Screenshot.3.png)
 
 
 ---
