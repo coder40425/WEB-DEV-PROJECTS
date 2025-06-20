@@ -29,9 +29,13 @@ Responsiveness is currently a work in progress. I’m actively improving the des
 
 ---
 
-## 📸 Screenshot
+## 📸 Screenshots
 
-(Add a screenshot or GIF here to show the project preview)
+![Screenshot 1](./screenshots/Screenshot.1.png)
+
+![Screenshot 2](./screenshots/Screenshot.2.png)
+
+![Screenshot 3](./screenshots/Screenshot.3.png)
 
 ---
 
