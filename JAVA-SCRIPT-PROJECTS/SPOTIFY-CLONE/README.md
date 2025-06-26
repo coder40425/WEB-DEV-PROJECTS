@@ -4,7 +4,7 @@
 
 A fully responsive music player web app that mimics Spotify's interface and basic functionality — built using *HTML, **CSS, and **JavaScript* (Vanilla JS).
 
-![screenshot](screenshots/spotify1.png)
+![screenshot](screenshots/spotify5.png)
 ## 🚀 Features
 
 - 🎧 Play/Pause songs
@@ -41,15 +41,29 @@ A fully responsive music player web app that mimics Spotify's interface and basi
 
 ### 🎛 Main UI
 
-![Main UI](screenshots/main-ui.png)
+![Main UI](screenshots/spotify5.png)
 
 ### 📂 Album Card Click
 
-![Album Card Click](screenshots/album-click.png)
+![Album Card Click](screenshots/spotify4.png)
 
 ### 🎵 Song Playing with Seekbar
 
-![Now Playing](screenshots/song-playing.png)
+![Now Playing](screenshots/spotify3.png)
+
+---
+
+## 📱 Mobile View
+
+### 📸 Screenshot 1 – Mobile Home UI
+
+![Mobile Home](screenshots/spotify2.png)
+
+### 📸 Screenshot 2 – Mobile Playlist
+
+![Mobile Player](screenshots/spotify1.png)
+
+
 
 > 📁 Make sure to include these screenshots in the /screenshots/ folder of your repo.
 
