@@ -1,4 +1,4 @@
-console.log("lets write java script")
+console.log("JavaScript")
 
 
 let currentSong = new Audio; //global variables
