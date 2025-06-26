@@ -55,13 +55,9 @@ A fully responsive music player web app that mimics Spotify's interface and basi
 
 ## 📱 Mobile View
 
-### 📸 Screenshot 1 – Mobile Home UI
+### 📸 Screenshot 1 – Mobile Home UI                ### 📸 Screenshot 2 – Mobile Playlist
 
-![Mobile Home](screenshots/spotify2.png)
-
-### 📸 Screenshot 2 – Mobile Playlist
-
-![Mobile Player](screenshots/spotify1.png)
+![Mobile Home](screenshots/spotify2.png)               ![Mobile Player](screenshots/spotify1.png)
 
 
 
