@@ -72,8 +72,12 @@ A fully responsive music player web app that mimics Spotify's interface and basi
 ## 👨‍💻 Author
 
 *Yash Kumar Singh*  
-🎓 B.Tech Chemical Engineering (2024–2028)  
-🏫 NIT Durgapur  
-📮 yashsingh1610@gmail.com  
-🔗 [GitHub](https://github.com/coder40425)  
-🔗 [LinkedIn](https://www.linkedin.com/in/yash-kumar-singh-18843232a)
+-🎓B.Tech Chemical Engineering (2024–2028)  
+-🏫NIT Durgapur    
+- GitHub: [@coder40425](https://github.com/coder40425)  
+- LinkedIn: [Yash Kumar Singh](https://www.linkedin.com/in/yash-kumar-singh-18843232a)
+
+---
+
+Feel free to check out the code and suggest improvements!  
+Happy coding! 😊
