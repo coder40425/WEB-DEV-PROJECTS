@@ -33,7 +33,8 @@ A simple weather forecast web app built using HTML, CSS, and JavaScript. It fetc
 
 ## 📸 Preview
 
-![screenshot](preview.png)
+![screenshot](screenshots/screenshot2.png)
+![screenshot](screenshots/screenshot1.png)
 
 ## 📌 Note
 
