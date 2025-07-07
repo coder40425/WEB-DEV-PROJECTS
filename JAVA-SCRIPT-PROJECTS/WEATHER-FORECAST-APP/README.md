@@ -40,7 +40,7 @@ A simple weather forecast web app built using HTML, CSS, and JavaScript. It fetc
 
 ## 📌 Note
 
-> Make sure to replace the API key in script.js with your own if needed.
+> Make sure to replace the API key in script.js with your own.
 
 ## ✨ Author
 
