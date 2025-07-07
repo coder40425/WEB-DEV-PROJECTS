@@ -46,7 +46,7 @@ A simple weather forecast web app built using HTML, CSS, and JavaScript. It fetc
 
 *Yash Kumar Singh*  
 - B.Tech @ NIT Durgapur (2024-2028)
-- [GitHub: coder40425](https://github.com/coder40425)  
+- GitHub:   [coder40425](https://github.com/coder40425)  
 - LinkedIn: [Yash Kumar Singh](https://www.linkedin.com/in/yash-kumar-singh-18843232a)
 
 ---
