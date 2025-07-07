@@ -3,7 +3,7 @@ console.log("java script")
 //deafult city to load weather for
 let city = ("London")
 //openWeather app api key
-let apiKey = "98a6a201ee042c6efce04ae8cc06a70e"
+let apiKey = "YOUR API KEY HERE"
 
 //this will store the interval ID for auto-refresh
 let intervalId = null
