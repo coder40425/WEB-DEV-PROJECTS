@@ -1,0 +1,65 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Segoe UI", sans-serif;
+}
+
+body {
+  background: white;
+  display: flex;
+  background-image: url('img/weather.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  background:rgb(186 230 251 );
+  height: 45vh;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 400px;
+  text-align: center;
+
+}
+
+.container button:hover {
+  background: #7daada;
+}
+
+.input-group {
+  margin: 15px 0;
+}
+
+input {
+  padding: 8px;
+  width: 60%;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+button {
+  padding: 8px 12px;
+  margin-left: 5px;
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#weatherBox {
+  margin-top: 20px;
+  font-size: 1.1rem;
+}
+
+.info {
+  margin-top: 25px;
+  color: gray;
+  font-size: 0.9rem;
+}
