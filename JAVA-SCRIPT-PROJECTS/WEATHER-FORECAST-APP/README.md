@@ -26,7 +26,7 @@ A simple weather forecast web app built using HTML, CSS, and JavaScript. It fetc
 
 ## 🚀 How to Use
 
-1. Clone the repo or [download ZIP](https://github.com/yourusername/weather-now)
+1. Clone the repo
 2. Open index.html in your browser
 3. Type your city name and hit "Enter" or click the button
 4. Sit back and let it auto-refresh every minute ⏱
