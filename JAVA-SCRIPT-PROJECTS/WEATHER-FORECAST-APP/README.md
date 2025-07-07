@@ -33,8 +33,10 @@ A simple weather forecast web app built using HTML, CSS, and JavaScript. It fetc
 
 ## 📸 Preview
 
-![screenshot](screenshots/screenshot2.png)
+### 🎛 Main UI
 ![screenshot](screenshots/screenshot1.png)
+### 🎛 Search a city
+![screenshot](screenshots/screenshot2.png)
 
 ## 📌 Note
 
@@ -43,12 +45,11 @@ A simple weather forecast web app built using HTML, CSS, and JavaScript. It fetc
 ## ✨ Author
 
 *Yash Kumar Singh*  
-[GitHub: coder40425](https://github.com/coder40425)  
-B.Tech @ NIT Durgapur (2024-2028)
+- B.Tech @ NIT Durgapur (2024-2028)
+- [GitHub: coder40425](https://github.com/coder40425)  
+- LinkedIn: [Yash Kumar Singh](https://www.linkedin.com/in/yash-kumar-singh-18843232a)
 
 ---
 
 ⭐ If you liked this project, feel free to star the repo and share!
-
-
-## 📁 Folder Structure
+   Happy coding! 😊
