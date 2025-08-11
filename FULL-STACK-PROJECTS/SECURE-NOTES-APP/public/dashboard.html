@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Dashboard</title>
+  <link rel="stylesheet" href="dashboard.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Welcome to Your Dashboard</h1>
+
+    <button id="logoutBtn">Logout</button>
+
+    <h2>Add New Note</h2>
+    <input type="text" id="titleInput" placeholder="Title" />
+    <textarea id="contentInput" placeholder="Content"></textarea>
+    <button id="addNoteBtn">Add Note</button>
+
+    <h2>Your Notes</h2>
+    <div id="notesContainer"></div>
+  </div>
+
+  <script src="dashboard.js"></script>
+</body>
+</html>

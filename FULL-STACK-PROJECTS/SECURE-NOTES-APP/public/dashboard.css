@@ -1,0 +1,153 @@
+/* dashboard.css */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%);
+  color: #fff;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.container {
+  background: #1e1e2f;
+  width: 100%;
+  max-width: 700px;
+  padding: 30px 40px;
+  border-radius: 15px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.7);
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+h1, h2 {
+  margin: 0;
+  font-weight: 700;
+  text-align: center;
+  text-shadow: 0 2px 5px rgba(0,0,0,0.7);
+}
+
+button {
+  cursor: pointer;
+  background: #2575fc;
+  border: none;
+  padding: 12px 25px;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-weight: 600;
+  color: white;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+  align-self: center;
+  box-shadow: 0 4px 10px rgba(37, 117, 252, 0.5);
+}
+
+button:hover {
+  background-color: #1a54c4;
+  box-shadow: 0 6px 15px rgba(26, 84, 196, 0.8);
+}
+
+#logoutBtn {
+  max-width: 150px;
+  margin: 0 auto 10px;
+  background: #e74c3c;
+  box-shadow: 0 4px 10px rgba(231, 76, 60, 0.6);
+}
+
+#logoutBtn:hover {
+  background: #c0392b;
+  box-shadow: 0 6px 15px rgba(192, 57, 43, 0.8);
+}
+
+input[type="text"],
+textarea {
+  width: 100%;
+  padding: 12px 15px;
+  border-radius: 10px;
+  border: none;
+  font-size: 1rem;
+  resize: vertical;
+  box-shadow: inset 0 2px 6px rgba(0,0,0,0.6);
+  background: #2a2a44;
+  color: #fff;
+  transition: box-shadow 0.3s ease;
+}
+
+input[type="text"]::placeholder,
+textarea::placeholder {
+  color: #b0b0c8;
+}
+
+input[type="text"]:focus,
+textarea:focus {
+  outline: none;
+  box-shadow: 0 0 8px 2px #2575fc;
+  background: #22223a;
+}
+
+#contentInput {
+  min-height: 100px;
+}
+
+#notesContainer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: center;
+}
+
+.note {
+  background: #2a2a44;
+  padding: 15px 20px;
+  border-radius: 12px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.7);
+  flex: 1 1 250px;
+  max-width: 300px;
+  color: #ddd;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  transition: transform 0.2s ease;
+}
+
+.note:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(37, 117, 252, 0.7);
+}
+
+.note h3 {
+  margin: 0;
+  font-size: 1.2rem;
+  color: #2575fc;
+}
+
+.note p {
+  margin: 0;
+  font-size: 1rem;
+  white-space: pre-wrap;
+}
+
+/* Responsive */
+
+@media (max-width: 600px) {
+  .container {
+    padding: 20px 25px;
+  }
+
+  #notesContainer {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .note {
+    max-width: 100%;
+    flex: 1 1 100%;
+  }
+}
