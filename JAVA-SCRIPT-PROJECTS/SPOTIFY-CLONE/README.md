@@ -64,8 +64,6 @@ A fully responsive music player web app that mimics Spotify's interface and basi
 
 
 
-> 📁 Make sure to include these screenshots in the /screenshots/ folder of your repo.
-
 ---
 
 ## 👨‍💻 Author
