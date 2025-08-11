@@ -54,11 +54,13 @@ Notes Dashboard
 
 ---
 
-## 📬 Contact
+## 👨‍💻 Author
+
 *Yash Kumar Singh*  
-📧 [yashsingh1610@gmail.com](mailto:yashsingh1610@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/yash-kumar-singh-18843232a)  
-💻 [GitHub](https://github.com/coder40425)
+-🎓B.Tech Chemical Engineering (2024–2028)  
+-🏫NIT Durgapur    
+- GitHub: [@coder40425](https://github.com/coder40425)  
+- LinkedIn: [Yash Kumar Singh](https://www.linkedin.com/in/yash-kumar-singh-18843232a)
 
 ---
 
