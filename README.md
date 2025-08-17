@@ -11,8 +11,8 @@ I'm *Yash Kumar Singh*, a B.Tech student at *NIT Durgapur (2024–2028)*, curren
 This repository is a structured collection of my web development projects, covering:
 - ✅ HTML & CSS
 - ✅ JavaScript 
-- 🔄 Node.js, MongoDB (in progress)
-- 🔜 React.js & Next.js
+- 🔄 Node.js, MongoDB 
+- 🔜 React.js & Next.js (in progress)
 
 Each project is organized in its own folder with clear documentation. From clones like *Netflix, **Spotify*, to full-stack applications – everything will be here!
 
